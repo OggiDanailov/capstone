@@ -1,7 +1,0 @@
-
-Para Mariano:
-
-
-Hola Marinano,
-
-

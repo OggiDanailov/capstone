@@ -1,0 +1,15 @@
+.word {
+	width: 50%;
+	border: 2px solid red;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 34px;
+}
+
+#root {
+	width: 80%;
+	margin: 150px auto;
+	border: 5px solid red;
+	background-color: lightyellow;
+	height: 200px;
+}

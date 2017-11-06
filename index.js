@@ -25,7 +25,7 @@ for(let i=0;i<array.length;i++){
 	var returnLetter = function(i){
 		returnValue = i.target.innerHTML	
 		console.log(returnValue)
-		return returnValue
+
 	}
 
 
